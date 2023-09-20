@@ -13,9 +13,22 @@ Routes:
   Order
   Update
   ----------------------------------
-  
+  ![Screenshot 2023-09-20 at 3 02 24 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/0367f4c5-8dfd-4fd0-a077-7a811d7b2717)
+![Screenshot 2023-09-20 at 3 02 47 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/8b38bb1b-b6d8-4b06-8a83-2ccbce1bfb54)
+![Screenshot 2023-09-20 at 3 02 56 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/b39e649f-8277-46af-9d37-1d5797848b80)
+![Screenshot 2023-09-20 at 3 11 04 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/e9447ab5-05b6-4829-aa72-f78b7c26f5ce)
+![Screenshot 2023-09-20 at 3 11 18 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/967ef24c-ddcd-4af0-8e23-580570965e04)
+![Screenshot 2023-09-20 at 3 11 26 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/d10b1147-d359-4cb7-8dd9-9aade1f83906)
+![Screenshot 2023-09-20 at 3 11 36 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/a1ccc4c2-37ed-4e49-9360-04aabf4c0b25)
+![Screenshot 2023-09-20 at 3 12 00 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/3b09f99b-b713-4963-bcf3-a8bd9baac527)
+![Screenshot 2023-09-20 at 3 12 54 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/77891eff-3575-4b7b-9373-97d5503ad451)
+![Screenshot 2023-09-20 at 3 13 01 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/c427f6ab-ccc3-42b6-98c6-1eca13dc5c6b)
+![Screenshot 2023-09-20 at 3 13 09 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/874e17cf-cfa5-4c33-9ef9-30551af4a317)
+![Screenshot 2023-09-20 at 3 13 17 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/54c53b6c-536d-455c-bb2d-03eab64d5845)
+
   
 ![Screenshot 2023-09-20 at 12 14 17 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/3bdb5aa3-0e33-4be9-82ea-13e9b36dc4d4)
+
 ![Screenshot 2023-09-20 at 12 15 20 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/bf480532-aa50-4944-b6a6-c1c5a1473dc0)
 ![Screenshot 2023-09-20 at 12 15 26 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/e18f9798-925e-4c9f-a3bf-e63635c03bfd)
 
