@@ -1,17 +1,28 @@
 # A-buy
-a shopping website use express.js, MongoDB and react
-use npm start to start both the front end and back end
-Data models:
+a shopping website uses express.js, MongoDB, and react, use npm start to start both the front end and back end
+<br>
+
+<h2>Data models:
+<br>
   Product schema
+  <br>
   Order schema
+  <br>
   User schema
+  <br>
   
-Routes:
-  Seed- show sample data(products, users) /api/seed
-  Product
-  User
-  Order
-  Update
+<h2> Routes:
+
+  Seed- show sample data(products, users) /api/seed;
+  <br>
+  Product;
+  <br>
+  User;
+  <br>
+  Order;
+  <br>
+  Update;
+  <br>
   ----------------------------------
   ![Screenshot 2023-09-20 at 3 02 24 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/0367f4c5-8dfd-4fd0-a077-7a811d7b2717)
 ![Screenshot 2023-09-20 at 3 02 47 PM](https://github.com/selinaliu0626/A-buy/assets/66767001/8b38bb1b-b6d8-4b06-8a83-2ccbce1bfb54)
